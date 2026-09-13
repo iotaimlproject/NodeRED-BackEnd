@@ -3,7 +3,8 @@
     "description": "A Node-RED Project",
     "version": "0.0.1",
     "dependencies": {
-        "node-red-contrib-influxdb3": "1.1.1"
+        "node-red-contrib-influxdb3": "1.1.1",
+        "node-red-contrib-modbus": "5.60.2"
     },
     "node-red": {
         "settings": {
