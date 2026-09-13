@@ -7,7 +7,8 @@
         "node-red-contrib-modbus": "5.60.2",
         "node-red-contrib-opcua": "0.2.355",
         "node-red-contrib-s7comm": "1.1.6",
-        "node-red-contrib-ui-led": "0.4.11"
+        "node-red-contrib-ui-led": "0.4.11",
+        "node-red-dashboard": "3.6.6"
     },
     "node-red": {
         "settings": {
